@@ -26,6 +26,7 @@ function HomePage({navigation}) {
         <ScrollView
           style={{
             height: '100%',
+            marginBottom: 80,
           }}>
           <LogoTitle />
           <View
